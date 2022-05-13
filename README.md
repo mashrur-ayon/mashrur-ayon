@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mashrur-ayon
 - 👀 I’m interested positive innovation, and technology. 
-- 🌱 I’m currently pursuing my undergradute at the University of Dhaka. 
+- 🌱 I’m currently pursuing my postgraduate degree at the University of Dhaka. 
 - 📫 Reach me at mashrur399@gmail.com or www.mashrurayon.com 
 
 <!---
