@@ -4,7 +4,7 @@ I'm [Mashrur](https://mashrurayon.com/)—a dedicated R and Python developer wit
 
 Beyond the world of code, I'm a fervent environmental advocate with a profound appreciation for nature's beauty and intricacies. My creativity also finds an outlet in writing, where I pen down my thoughts and perspectives.
 
-<img align="right" alt="GIF" src="https://github.com/mashrur-ayon/mashrur-readme-files/blob/main/coding.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/mashrur-ayon/mashrur-readme-files/blob/main/coding.gif"/>
 
 - 💼 Interested in collaborating? Drop me an [email](mailto:mashrur399@gmail.com)!
 - 🌱 Always eager to learn and grow, both as a developer and an individual.
